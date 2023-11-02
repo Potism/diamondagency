@@ -1,0 +1,219 @@
+{
+    "banner": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Banner Section",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1281"
+                }
+            },
+            "heading": "text"
+        }
+    },
+    "auth": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Auth Section",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1281"
+                }
+            }
+        }
+    },
+     "breadcrumb": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Breadcrumb Section",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1441"
+                }
+            }
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "FAQ Section",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "title": "text",
+            "answer": "textarea-nic",
+            "modal": true
+        }
+    },
+    "feature": {
+        "builder": true,
+        "name": "Feature Section",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x1280"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "title": "text",
+            "description": "textarea",
+            "feature_icon": "icon",
+            "modal": true
+        }
+    },
+    "feature_job": {
+        "builder": true,
+        "name": "Feature Job",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "latest_job": {
+        "builder": true,
+        "name": "Latest Job",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "cta": {
+        "builder": true,
+        "name": "CTA Section",
+        "content": {
+            "images":{
+                "cta_image":{
+                    "size":"946x887"
+                }
+            },
+            "heading": "text",
+            "btn_name": "text",
+            "btn_url": "text"
+        }
+    },
+    "package": {
+        "builder": true,
+        "name": "Package Section",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "policy_pages": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-nic",
+            "modal": false
+        }
+    },
+    "brand": {
+        "builder": true,
+        "name": "Brand Section",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "images":{
+                "brand_image":{
+                    "size":"220x70"
+                }
+            },
+            "modal": false
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "images":{
+                "blog_image":{
+                    "size":"768x520"
+                }
+            },
+            "title": "text",
+            "description_nic": "textarea-nic",
+            "modal": false
+        }
+    }, 
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "title": "text",
+            "email_address": "text",
+            "contact_details": "text",
+            "contact_number": "text",
+            "latitude": "text",
+            "longitude": "text"
+        }
+    },
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer Section",
+        "content": {
+            "title": "text",
+            "job_post" : "text",
+            "candidate" : "text"
+        }
+    },
+    "about_us": {
+        "builder": true,
+        "name": "About Us Section",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "images":{
+                "about_us_image":{
+                    "size":"768x520"
+                }
+            },
+            "title": "text",
+            "description_nic": "textarea-nic",
+            "modal": false
+        }
+    },
+    "service": {
+        "builder": true,
+        "name": "Service Section",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "images":{
+                "service_image":{
+                    "size":"768x520"
+                }
+            },
+            "title": "text",
+            "description_nic": "textarea-nic",
+            "modal": false
+        }
+    }
+}
